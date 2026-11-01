@@ -1,0 +1,41 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+# Compiled executable
+*.exe
+
+# Student data / generated data
+*.dat
+
+# Build output
+*.o
+
+# IDE / OS junk
+.vscode/
+.idea/
+*.tmp
+
+# Local verification and SQLite data
+.pytest_cache/
+.pytest-tmp/
+.qa.tmp/
+*.sqlite3
+*.sqlite3-wal
+*.sqlite3-shm
